@@ -1,0 +1,15 @@
+{
+  "name": "knostr-all",
+  "version": "0.0.1-SNAPSHOT",
+  "main": "knostr-all.mjs",
+  "types": "knostr-all.d.mts",
+  "devDependencies": {
+    "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "ws": "8.20.1"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
